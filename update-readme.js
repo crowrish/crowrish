@@ -48,14 +48,24 @@ if (hour >= 0 && hour < 6) {
 // 해당 시간대의 문구 중 랜덤 선택
 const selectedGreeting = greetings[timeOfDay][Math.floor(Math.random() * greetings[timeOfDay].length)];
 
-// README 템플릿 - GitHub 마크다운 호환
+// 현재 시간을 PM HH:MM 형식으로 포맷
+const timeString = koreaTime.toLocaleString('en-US', { 
+  timeZone: 'Asia/Seoul',
+  hour: '2-digit',
+  minute: '2-digit',
+  hour12: true
+});
+
+// README 템플릿 - h3 크기 + 간단한 시간 표시
 const readmeTemplate = `<div align="center">
 
-<br><br><br>
+<br>
 
-${selectedGreeting}
+### ${selectedGreeting}
 
-<br><br><br>
+<br>
+
+<sub>${timeString} • by crowrish</sub>
 
 </div>`;
 
