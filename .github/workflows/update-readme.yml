@@ -1,0 +1,33 @@
+name: Update README with Time-based Greeting
+
+on:
+  schedule:
+    # 매 3시간마다 실행 (0, 3, 6, 9, 12, 15, 18, 21시)
+    - cron: '0 */3 * * *'
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Update README
+        run: |
+          node update-readme.js
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if ! git diff --staged --quiet; then
+            git commit -m "🕒 시간대별 인사말 업데이트"
+            git push
+          fi
