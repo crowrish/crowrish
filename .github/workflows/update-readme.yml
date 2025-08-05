@@ -2,8 +2,8 @@ name: Update README with Time-based Greeting
 
 on:
   schedule:
-    # 매 3시간마다 실행 (0, 3, 6, 9, 12, 15, 18, 21시)
-    - cron: '0 */3 * * *'
+    # 2시간마다 정각 (0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22시)
+    - cron: '0 */1 * * *'
   workflow_dispatch: # 수동 실행 가능
 
 jobs:
