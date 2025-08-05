@@ -6,6 +6,6 @@
 
 <br>
 
-<sub>05:50 AM • by crowrish</sub>
+<sub>05:52 AM Seoul • by CrowRish</sub>
 
 </div>
