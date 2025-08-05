@@ -1,8 +1,8 @@
 const fs = require('fs');
 
-// 한국 시간 기준으로 현재 시간 가져오기
+// 한국 시간 직접 계산 (UTC+9)
 const now = new Date();
-const koreaTime = new Date(now.getTime() + (9 * 60 * 60 * 1000)); // UTC+9
+const koreaTime = new Date(now.toLocaleString("en-US", {timeZone: "Asia/Seoul"}));
 const hour = koreaTime.getHours();
 
 // 시간대별 문구 배열 - Chill한 일상 멘트들
@@ -48,8 +48,8 @@ if (hour >= 0 && hour < 6) {
 // 해당 시간대의 문구 중 랜덤 선택
 const selectedGreeting = greetings[timeOfDay][Math.floor(Math.random() * greetings[timeOfDay].length)];
 
-// 현재 시간을 PM HH:MM Seoul 형식으로 포맷
-const timeString = koreaTime.toLocaleString('en-US', { 
+// 현재 서울 시간을 PM HH:MM Seoul 형식으로 포맷
+const timeString = new Date().toLocaleString('en-US', { 
   timeZone: 'Asia/Seoul',
   hour: '2-digit',
   minute: '2-digit',
@@ -62,10 +62,10 @@ const readmeTemplate = `<div align="center">
 <br>
 
 ### ${selectedGreeting}
-<sub>${timeString} • by CrowRish</sub>
+
+<sub>${timeString} • by crowrish</sub>
 
 <br>
-
 
 </div>`;
 
