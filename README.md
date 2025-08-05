@@ -2,9 +2,9 @@
 
 <br>
 
-<h3 style="font-family: Georgia, serif; font-style: italic;">"🕯️ 촛불 켜고 편안하게 보내는 저녁 시간이에요"</h3>
+### ❝🌆 하루 마무리하며 차 한 잔 마시고 있어요❞
 
-<sub>10:14 PM Seoul • by CrowRish</sub>
+<sub>10:28 PM Seoul • by CrowRish</sub>
 
 <br>
 
