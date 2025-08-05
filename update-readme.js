@@ -1,4 +1,10 @@
 const fs = require('fs');
+const { getSeoulWeather } = require('./weather.js');
+
+// 메인 실행 함수
+async function updateReadme() {
+// 날씨 정보 가져오기
+const weatherEmoji = await getSeoulWeather();
 
 // 한국 시간 정확히 계산
 const now = new Date();
@@ -58,7 +64,7 @@ const timeString = new Date().toLocaleString('en-US', {
   hour: '2-digit',
   minute: '2-digit',
   hour12: true
-}).replace(/:\d{2}/, ':00') + ' Seoul';
+}).replace(/:\d{2}/, ':00');
 
 // README 템플릿 - 여러 폰트 방법 시도
 const readmeTemplate = `<div align="center">
@@ -67,7 +73,7 @@ const readmeTemplate = `<div align="center">
 
 <h3>❝${selectedGreeting}❞</h3>
 
-<sub>${timeString} • by CrowRish</sub>
+<sub>${timeString} • Seoul ${weatherEmoji} • by CrowRish</sub>
 
 <br>
 
@@ -76,3 +82,7 @@ const readmeTemplate = `<div align="center">
 // README.md 파일 업데이트
 fs.writeFileSync('README.md', readmeTemplate);
 console.log(`✅ README.md 업데이트 완료! (${timeOfDay} - ${selectedGreeting})`);
+}
+
+// 함수 실행
+updateReadme();
