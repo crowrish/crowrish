@@ -62,10 +62,10 @@ const readmeTemplate = `<div align="center">
 <br>
 
 ### ${selectedGreeting}
+<sub>${timeString} • by CrowRish</sub>
 
 <br>
 
-<sub>${timeString} • by CrowRish</sub>
 
 </div>`;
 
