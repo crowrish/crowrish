@@ -2,9 +2,9 @@
 
 <br>
 
-### 📚 책 읽기 좋은 조용한 저녁입니다
+### "🕯️ 촛불 켜고 편안하게 보내는 저녁 시간이에요"
 
-<sub>08:56 PM Seoul • by crowrish</sub>
+<sub>10:14 PM Seoul • by CrowRish</sub>
 
 <br>
 
