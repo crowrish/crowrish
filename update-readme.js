@@ -29,7 +29,7 @@ const greetings = {
     "🌆 하루 마무리하며 차 한 잔 마시고 있어요",
     "🌙 오늘 하루도 수고 많았네요, 이제 쉬어도 될 시간",
     "📚 책 읽기 좋은 조용한 저녁입니다",
-    "🕯️ 촛불 켜고 편안하게 보내는 저녁 시간이에요"
+    "🕯️ 편안하게 보내는 저녁 시간이에요"
   ]
 };
 
@@ -61,7 +61,7 @@ const readmeTemplate = `<div align="center">
 
 <br>
 
-### "${selectedGreeting}"
+### ❝${selectedGreeting}❞
 
 <sub>${timeString} • by CrowRish</sub>
 
