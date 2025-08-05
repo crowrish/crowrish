@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-// 한국 시간 직접 계산 (UTC+9)
+// 한국 시간 직접 계산
 const now = new Date();
 const koreaTime = new Date(now.toLocaleString("en-US", {timeZone: "Asia/Seoul"}));
 const hour = koreaTime.getHours();
@@ -48,24 +48,30 @@ if (hour >= 0 && hour < 6) {
 // 해당 시간대의 문구 중 랜덤 선택
 const selectedGreeting = greetings[timeOfDay][Math.floor(Math.random() * greetings[timeOfDay].length)];
 
-// 현재 서울 시간을 PM HH:MM Seoul 형식으로 포맷
-const timeString = new Date().toLocaleString('en-US', { 
+// 스케줄된 시간으로 타임스탬프 생성 (정각 표시)
+const scheduledHour = hour;
+
+// 정각 시간으로 타임스탬프 생성
+const scheduledTime = new Date(koreaTime);
+scheduledTime.setHours(scheduledHour, 0, 0, 0);
+
+const timeString = scheduledTime.toLocaleString('en-US', { 
   timeZone: 'Asia/Seoul',
   hour: '2-digit',
   minute: '2-digit',
   hour12: true
 }) + ' Seoul';
 
-// README 템플릿 - h3 크기 + 서울 시간 표시
+// README 템플릿
 const readmeTemplate = `<div align="center">
 
 <br>
 
-### ❝${selectedGreeting}❞
-
-<sub>${timeString} • by CrowRish</sub>
+<h3>❝${selectedGreeting}❞</h3>
 
 <br>
+
+<sub>${timeString} • by CrowRish</sub>
 
 </div>`;
 
