@@ -61,7 +61,7 @@ const readmeTemplate = `<div align="center">
 
 <br>
 
-### ${selectedGreeting}
+### "${selectedGreeting}"
 
 <sub>${timeString} • by CrowRish</sub>
 
