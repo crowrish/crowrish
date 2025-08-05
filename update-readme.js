@@ -5,7 +5,7 @@ const now = new Date();
 const koreaTime = new Date(now.toLocaleString("en-US", {timeZone: "Asia/Seoul"}));
 const hour = koreaTime.getHours();
 
-console.log(`현재 한국 시간: ${koreaTime.toLocaleString('ko-KR', {timeZone: 'Asia/Seoul'})}`);
+console.log(`현재 한국 시간: ${now.toLocaleString('ko-KR', {timeZone: 'Asia/Seoul'})}`);
 console.log(`시간: ${hour}시`);
 
 // 시간대별 문구 배열 - Chill한 일상 멘트들
