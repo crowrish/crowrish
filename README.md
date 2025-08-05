@@ -1,3 +1,9 @@
-<div align="center" style="padding: 60px 20px;">
-  <h2>🕯️ 편안하게 보내는 저녁 시간이에요</h2>
+<div align="center">
+
+<br><br><br>
+
+📚 책 읽기 좋은 조용한 저녁입니다
+
+<br><br><br>
+
 </div>
