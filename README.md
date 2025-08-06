@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌦️ 비 내리는 아침, 창가에서 커피 마시기 좋은 날이에요❞</h3>
+<h3>❝☔ 오후비와 함께 차분한 시간을 보내고 있습니다❞</h3>
 
-<sub>11:00 AM • Seoul 🌧️ • by CrowRish</sub>
+<sub>01:00 PM • Seoul 🌧️ • by CrowRish</sub>
 
 <br>
 
