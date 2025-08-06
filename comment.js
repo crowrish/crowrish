@@ -1,5 +1,33 @@
-// 시간대별 + 날씨별 문구 배열
-const greetings = {
+// 기존 chill한 문구들 (날씨 무관)
+const basicGreetings = {
+  dawn: [
+    "🌙 세상이 조용한 밤, 생각하기 좋은 시간이네요",
+    "✨ 밤늦은 산책을 하고 싶은 기분입니다",
+    "🌌 별 보기 좋은 새벽이에요",
+    "💤 모두가 꿈꾸는 시간, 혼자만의 여유를 즐기고 있어요"
+  ],
+  morning: [
+    "☀️ 커피 한 잔과 함께 시작하는 상쾌한 아침입니다",
+    "🌅 창문을 열고 싶어지는 좋은 날씨네요",
+    "☕ 모닝 루틴을 천천히 즐기고 있어요",
+    "🌱 새로운 하루, 뭔가 좋은 일이 생길 것 같은 기분이에요"
+  ],
+  afternoon: [
+    "☕ 커피 한잔하기 좋은 오후입니다",
+    "🌞 점심 후 여유롭게 보내는 오후 시간이에요",
+    "🎵 좋아하는 음악 들으며 쉬고 있어요",
+    "🌿 산책하고 싶어지는 따뜻한 오후네요"
+  ],
+  evening: [
+    "🌆 하루 마무리하며 차 한 잔 마시고 있어요",
+    "🌙 오늘 하루도 수고 많았네요, 이제 쉬어도 될 시간",
+    "📚 책 읽기 좋은 조용한 저녁입니다",
+    "🕯️ 편안하게 보내는 저녁 시간이에요"
+  ]
+};
+
+// 날씨별 특화 문구들
+const weatherGreetings = {
   dawn: {
     sunny: [
       "🌙 별빛이 아름다운 고요한 밤이네요",
@@ -109,11 +137,20 @@ function categorizeWeather(weatherEmoji) {
   return 'sunny'; // 기본값
 }
 
-// 시간대와 날씨에 맞는 랜덤 문구 선택
+// 시간대와 날씨에 맞는 랜덤 문구 선택 (기존 + 날씨별 혼합)
 function getRandomGreeting(timeOfDay, weatherEmoji) {
   const weatherCategory = categorizeWeather(weatherEmoji);
-  const availableGreetings = greetings[timeOfDay][weatherCategory] || greetings[timeOfDay]['sunny'];
-  return availableGreetings[Math.floor(Math.random() * availableGreetings.length)];
+  
+  // 기존 문구들
+  const basicMessages = basicGreetings[timeOfDay] || [];
+  
+  // 날씨별 특화 문구들
+  const weatherMessages = (weatherGreetings[timeOfDay] && weatherGreetings[timeOfDay][weatherCategory]) || [];
+  
+  // 두 배열을 합쳐서 랜덤 선택
+  const allMessages = [...basicMessages, ...weatherMessages];
+  
+  return allMessages[Math.floor(Math.random() * allMessages.length)];
 }
 
 module.exports = { getRandomGreeting };
