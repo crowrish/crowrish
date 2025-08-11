@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☀️ 따뜻한 햇빛과 함께 상쾌한 아침입니다❞</h3>
+<h3>❝🌞 점심 후 여유롭게 보내는 오후 시간이에요❞</h3>
 
-<sub>11:00 AM • Seoul 🌤️ • by CrowRish</sub>
+<sub>01:00 PM • Seoul ⛅ • by CrowRish</sub>
 
 <br>
 
