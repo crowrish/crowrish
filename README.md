@@ -4,7 +4,7 @@
 
 <h3>❝☕ 모닝 루틴을 천천히 즐기고 있어요❞</h3>
 
-<sub>06:00 AM • Seoul 🌧️ • by CrowRish</sub>
+<sub>07:00 AM • Seoul 🌧️ • by CrowRish</sub>
 
 <br>
 
