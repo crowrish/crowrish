@@ -4,7 +4,7 @@
 
 <h3>❝🌞 점심 후 여유롭게 보내는 오후 시간이에요❞</h3>
 
-<sub>12:00 PM • Seoul 🌦️ • by CrowRish</sub>
+<sub>01:00 PM • Seoul 🌦️ • by CrowRish</sub>
 
 <br>
 
