@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌦️ 비 내리는 오후, 실내가 더욱 아늑하게 느껴져요❞</h3>
+<h3>❝☀️ 햇살 가득한 오후, 야외 활동하기 완벽한 날이에요❞</h3>
 
-<sub>03:00 PM • Seoul 🌦️ • by CrowRish</sub>
+<sub>04:00 PM • Seoul ☀️ • by CrowRish</sub>
 
 <br>
 
