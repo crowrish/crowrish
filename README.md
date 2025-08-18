@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌅 창문을 열고 싶어지는 아침이네요❞</h3>
+<h3>❝☁️ 선선한 오후, 좋아하는 음악 들으며 휴식 중입니다❞</h3>
 
-<sub>11:00 AM • Seoul ☁️ • by CrowRish</sub>
+<sub>01:00 PM • Seoul ⛅ • by CrowRish</sub>
 
 <br>
 
