@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌙 세상이 조용한 밤, 생각하기 좋은 시간이네요❞</h3>
+<h3>❝🌙 별빛이 아름다운 고요한 밤이네요❞</h3>
 
-<sub>01:00 AM • Seoul 🌙 • by CrowRish</sub>
+<sub>02:00 AM • Seoul 🌙 • by CrowRish</sub>
 
 <br>
 
