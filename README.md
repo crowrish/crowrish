@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☁️ 구름 사이로 스며드는 새벽빛이 신비로워요❞</h3>
+<h3>❝⛅ 흐린 하늘이지만 나름 운치 있는 아침이네요❞</h3>
 
-<sub>05:00 AM • Seoul ☁️ • by CrowRish</sub>
+<sub>06:00 AM • Seoul ⛅ • by CrowRish</sub>
 
 <br>
 
