@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☀️ 따스한 햇빛 아래서 여유로운 오후를 보내고 있어요❞</h3>
+<h3>❝🌇 노을 지는 저녁, 감사한 마음으로 하루를 정리합니다❞</h3>
 
-<sub>05:00 PM • Seoul 🌤️ • by CrowRish</sub>
+<sub>06:00 PM • Seoul 🌤️ • by CrowRish</sub>
 
 <br>
 
