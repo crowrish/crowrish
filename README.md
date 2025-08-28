@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☁️ 구름이 많은 아침, 커피가 더욱 맛있을 것 같아요❞</h3>
+<h3>❝☕ 커피 한잔하기 좋은 오후입니다❞</h3>
 
-<sub>10:00 AM • Seoul ⛅ • by CrowRish</sub>
+<sub>12:00 PM • Seoul ⛅ • by CrowRish</sub>
 
 <br>
 
