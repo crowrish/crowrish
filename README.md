@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🕯️ 편안하게 보내는 저녁 시간이에요❞</h3>
+<h3>❝🌌 별 보기 좋은 새벽이에요❞</h3>
 
-<sub>11:00 PM • Seoul 🌦️ • by CrowRish</sub>
+<sub>12:00 AM • Seoul 🌦️ • by CrowRish</sub>
 
 <br>
 
