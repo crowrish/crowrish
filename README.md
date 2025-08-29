@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🕯️ 편안하게 보내는 저녁 시간이에요❞</h3>
+<h3>❝🌦️ 촉촉한 저녁, 하루의 피로가 씻겨나가는 기분이에요❞</h3>
 
-<sub>06:00 PM • Seoul 🌦️ • by CrowRish</sub>
+<sub>07:00 PM • Seoul 🌧️ • by CrowRish</sub>
 
 <br>
 
