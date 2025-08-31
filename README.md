@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌆 하루 마무리하며 차 한 잔 마시고 있어요❞</h3>
+<h3>❝🌧️ 비 오는 저녁, 집이 더욱 포근하게 느껴집니다❞</h3>
 
-<sub>07:00 PM • Seoul ☁️ • by CrowRish</sub>
+<sub>08:00 PM • Seoul 🌦️ • by CrowRish</sub>
 
 <br>
 
