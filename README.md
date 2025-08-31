@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌧️ 비 오는 저녁, 집이 더욱 포근하게 느껴집니다❞</h3>
+<h3>❝📚 책 읽기 좋은 조용한 저녁입니다❞</h3>
 
-<sub>08:00 PM • Seoul 🌦️ • by CrowRish</sub>
+<sub>09:00 PM • Seoul 🌙 • by CrowRish</sub>
 
 <br>
 
