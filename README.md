@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☀️ 햇살 좋은 아침, 에너지가 충전되는 기분이에요❞</h3>
+<h3>❝🌧️ 비 오는 아침, 실내에서 여유롭게 보내고 있어요❞</h3>
 
-<sub>10:00 AM • Seoul 🌤️ • by CrowRish</sub>
+<sub>11:00 AM • Seoul 🌦️ • by CrowRish</sub>
 
 <br>
 
