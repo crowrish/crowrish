@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☀️ 햇살 가득한 오후, 야외 활동하기 완벽한 날이에요❞</h3>
+<h3>❝☁️ 구름 낀 저녁, 차분한 마음으로 하루를 되돌아봐요❞</h3>
 
-<sub>05:00 PM • Seoul 🌤️ • by CrowRish</sub>
+<sub>06:00 PM • Seoul ⛅ • by CrowRish</sub>
 
 <br>
 
