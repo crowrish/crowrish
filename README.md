@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝📚 책 읽기 좋은 조용한 저녁입니다❞</h3>
+<h3>❝🌦️ 촉촉한 저녁, 하루의 피로가 씻겨나가는 기분이에요❞</h3>
 
-<sub>07:00 PM • Seoul 🌧️ • by CrowRish</sub>
+<sub>08:00 PM • Seoul 🌦️ • by CrowRish</sub>
 
 <br>
 
