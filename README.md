@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☕ 모닝 루틴을 천천히 즐기고 있어요❞</h3>
+<h3>❝☁️ 적당히 흐린 오후, 산책하기 딱 좋은 날씨네요❞</h3>
 
-<sub>11:00 AM • Seoul ⛅ • by CrowRish</sub>
+<sub>12:00 PM • Seoul ⛅ • by CrowRish</sub>
 
 <br>
 
