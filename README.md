@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌧️ 비 오는 아침, 실내에서 여유롭게 보내고 있어요❞</h3>
+<h3>❝☀️ 커피 한 잔과 함께 시작하는 상쾌한 아침입니다❞</h3>
 
-<sub>06:00 AM • Seoul 🌦️ • by CrowRish</sub>
+<sub>07:00 AM • Seoul 🌦️ • by CrowRish</sub>
 
 <br>
 
