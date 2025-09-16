@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌧️ 새벽비 소리가 마음을 차분하게 만드네요❞</h3>
+<h3>❝💤 모두가 꿈꾸는 시간, 혼자만의 여유를 즐기고 있어요❞</h3>
 
-<sub>01:00 AM • Seoul 🌦️ • by CrowRish</sub>
+<sub>02:00 AM • Seoul 🌧️ • by CrowRish</sub>
 
 <br>
 
