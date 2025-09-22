@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌙 세상이 조용한 밤, 생각하기 좋은 시간이네요❞</h3>
+<h3>❝🌫️ 흐린 새벽, 따뜻한 차 한 잔이 그리워집니다❞</h3>
 
-<sub>12:00 AM • Seoul 🌙 • by CrowRish</sub>
+<sub>01:00 AM • Seoul ☁️ • by CrowRish</sub>
 
 <br>
 
