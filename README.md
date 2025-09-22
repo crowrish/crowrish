@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☁️ 구름이 낀 새벽, 몽환적인 분위기네요❞</h3>
+<h3>❝🌌 구름 한 점 없는 새벽, 생각하기 좋은 시간입니다❞</h3>
 
-<sub>03:00 AM • Seoul ☁️ • by CrowRish</sub>
+<sub>04:00 AM • Seoul 🌙 • by CrowRish</sub>
 
 <br>
 
