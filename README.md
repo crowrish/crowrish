@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☁️ 구름 낀 저녁, 차분한 마음으로 하루를 되돌아봐요❞</h3>
+<h3>❝✨ 맑은 하늘, 새벽 산책하기 좋은 시간이에요❞</h3>
 
-<sub>11:00 PM • Seoul ☁️ • by CrowRish</sub>
+<sub>12:00 AM • Seoul 🌙 • by CrowRish</sub>
 
 <br>
 
