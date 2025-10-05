@@ -4,7 +4,7 @@
 
 <h3>❝🎵 좋아하는 음악 들으며 쉬고 있어요❞</h3>
 
-<sub>12:00 PM • Seoul ⛅ • by CrowRish</sub>
+<sub>01:00 PM • Seoul ☁️ • by CrowRish</sub>
 
 <br>
 
