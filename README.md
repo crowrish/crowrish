@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌦️ 촉촉한 저녁, 하루의 피로가 씻겨나가는 기분이에요❞</h3>
+<h3>❝🌧️ 새벽비 소리가 마음을 차분하게 만드네요❞</h3>
 
-<sub>11:00 PM • Seoul 🌧️ • by CrowRish</sub>
+<sub>12:00 AM • Seoul 🌧️ • by CrowRish</sub>
 
 <br>
 
