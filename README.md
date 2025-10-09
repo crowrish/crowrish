@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌧️ 새벽비 소리가 마음을 차분하게 만드네요❞</h3>
+<h3>❝🌧️ 비 오는 새벽, 집 안이 더욱 포근하게 느껴져요❞</h3>
 
-<sub>03:00 AM • Seoul 🌦️ • by CrowRish</sub>
+<sub>04:00 AM • Seoul 🌦️ • by CrowRish</sub>
 
 <br>
 
