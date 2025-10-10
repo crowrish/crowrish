@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☀️ 커피 한 잔과 함께 시작하는 상쾌한 아침입니다❞</h3>
+<h3>❝☔ 아침비와 함께 시작하는 촉촉한 하루입니다❞</h3>
 
-<sub>08:00 AM • Seoul 🌦️ • by CrowRish</sub>
+<sub>10:00 AM • Seoul 🌧️ • by CrowRish</sub>
 
 <br>
 
