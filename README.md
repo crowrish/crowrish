@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☔ 빗방울이 창문을 두드리는 평온한 새벽입니다❞</h3>
+<h3>❝🌧️ 비 오는 새벽, 집 안이 더욱 포근하게 느껴져요❞</h3>
 
-<sub>01:00 AM • Seoul 🌧️ • by CrowRish</sub>
+<sub>02:00 AM • Seoul 🌦️ • by CrowRish</sub>
 
 <br>
 
