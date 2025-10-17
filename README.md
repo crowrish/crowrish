@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌧️ 비 오는 새벽, 집 안이 더욱 포근하게 느껴져요❞</h3>
+<h3>❝💤 모두가 꿈꾸는 시간, 혼자만의 여유를 즐기고 있어요❞</h3>
 
-<sub>02:00 AM • Seoul 🌦️ • by CrowRish</sub>
+<sub>03:00 AM • Seoul 🌧️ • by CrowRish</sub>
 
 <br>
 
