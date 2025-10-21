@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☀️ 햇살 가득한 오후, 야외 활동하기 완벽한 날이에요❞</h3>
+<h3>❝☀️ 따스한 햇빛 아래서 여유로운 오후를 보내고 있어요❞</h3>
 
-<sub>01:00 PM • Seoul ☀️ • by CrowRish</sub>
+<sub>02:00 PM • Seoul ☀️ • by CrowRish</sub>
 
 <br>
 
