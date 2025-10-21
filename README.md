@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☕ 모닝 루틴을 천천히 즐기고 있어요❞</h3>
+<h3>❝☀️ 커피 한 잔과 함께 시작하는 상쾌한 아침입니다❞</h3>
 
-<sub>06:00 AM • Seoul 🌙 • by CrowRish</sub>
+<sub>07:00 AM • Seoul ☀️ • by CrowRish</sub>
 
 <br>
 
