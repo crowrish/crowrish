@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝✨ 밤늦은 산책을 하고 싶은 기분입니다❞</h3>
+<h3>❝🌫️ 흐린 새벽, 따뜻한 차 한 잔이 그리워집니다❞</h3>
 
-<sub>03:00 AM • Seoul ☁️ • by CrowRish</sub>
+<sub>04:00 AM • Seoul ☁️ • by CrowRish</sub>
 
 <br>
 
