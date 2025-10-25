@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌙 세상이 조용한 밤, 생각하기 좋은 시간이네요❞</h3>
+<h3>❝☁️ 구름이 많은 아침, 커피가 더욱 맛있을 것 같아요❞</h3>
 
-<sub>05:00 AM • Seoul ☁️ • by CrowRish</sub>
+<sub>06:00 AM • Seoul ☁️ • by CrowRish</sub>
 
 <br>
 
