@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☁️ 구름 낀 저녁, 차분한 마음으로 하루를 되돌아봐요❞</h3>
+<h3>❝📚 책 읽기 좋은 조용한 저녁입니다❞</h3>
 
-<sub>08:00 PM • Seoul ☁️ • by CrowRish</sub>
+<sub>09:00 PM • Seoul 🌙 • by CrowRish</sub>
 
 <br>
 
