@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☀️ 따뜻한 햇빛과 함께 상쾌한 아침입니다❞</h3>
+<h3>❝🎵 좋아하는 음악 들으며 쉬고 있어요❞</h3>
 
-<sub>10:00 AM • Seoul 🌤️ • by CrowRish</sub>
+<sub>12:00 PM • Seoul 🌤️ • by CrowRish</sub>
 
 <br>
 
