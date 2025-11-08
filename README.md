@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☕ 모닝 루틴을 천천히 즐기고 있어요❞</h3>
+<h3>❝🌞 점심 후 여유롭게 보내는 오후 시간이에요❞</h3>
 
-<sub>10:00 AM • Seoul 🌤️ • by CrowRish</sub>
+<sub>12:00 PM • Seoul ⛅ • by CrowRish</sub>
 
 <br>
 
