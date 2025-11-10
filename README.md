@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌞 점심 후 여유롭게 보내는 오후 시간이에요❞</h3>
+<h3>❝☀️ 따스한 햇빛 아래서 여유로운 오후를 보내고 있어요❞</h3>
 
-<sub>02:00 PM • Seoul ☀️ • by CrowRish</sub>
+<sub>03:00 PM • Seoul ☀️ • by CrowRish</sub>
 
 <br>
 
