@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌞 맑은 오후 하늘, 기분까지 맑아지는 시간입니다❞</h3>
+<h3>❝☕ 커피 한잔하기 좋은 오후입니다❞</h3>
 
-<sub>01:00 PM • Seoul 🌤️ • by CrowRish</sub>
+<sub>02:00 PM • Seoul 🌤️ • by CrowRish</sub>
 
 <br>
 
