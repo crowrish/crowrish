@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☁️ 구름 사이로 스며드는 새벽빛이 신비로워요❞</h3>
+<h3>❝✨ 맑은 하늘, 새벽 산책하기 좋은 시간이에요❞</h3>
 
-<sub>02:00 AM • Seoul ☁️ • by CrowRish</sub>
+<sub>03:00 AM • Seoul 🌙 • by CrowRish</sub>
 
 <br>
 
