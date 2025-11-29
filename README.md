@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☁️ 구름 사이로 스며드는 새벽빛이 신비로워요❞</h3>
+<h3>❝🌌 별 보기 좋은 새벽이에요❞</h3>
 
-<sub>01:00 AM • Seoul ☁️ • by CrowRish</sub>
+<sub>02:00 AM • Seoul ☁️ • by CrowRish</sub>
 
 <br>
 
