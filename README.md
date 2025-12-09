@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☀️ 커피 한 잔과 함께 시작하는 상쾌한 아침입니다❞</h3>
+<h3>❝☀️ 따스한 햇빛 아래서 여유로운 오후를 보내고 있어요❞</h3>
 
-<sub>10:00 AM • Seoul ☀️ • by CrowRish</sub>
+<sub>12:00 PM • Seoul ☀️ • by CrowRish</sub>
 
 <br>
 
