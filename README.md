@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌧️ 비 오는 저녁, 집이 더욱 포근하게 느껴집니다❞</h3>
+<h3>❝❄️ 눈 내리는 저녁, 따뜻한 집에서 겨울 낭만을 즐겨요❞</h3>
 
-<sub>08:00 PM • Seoul 🌧️ • by CrowRish</sub>
+<sub>09:00 PM • Seoul ❄️ • by CrowRish</sub>
 
 <br>
 
