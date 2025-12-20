@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☁️ 구름 낀 아침, 선선해서 산책하기 좋겠어요❞</h3>
+<h3>❝☁️ 선선한 오후, 좋아하는 음악 들으며 휴식 중입니다❞</h3>
 
-<sub>10:00 AM • Seoul ☁️ • by CrowRish</sub>
+<sub>12:00 PM • Seoul ☁️ • by CrowRish</sub>
 
 <br>
 
