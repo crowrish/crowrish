@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌦️ 비 내리는 오후, 실내가 더욱 아늑하게 느껴져요❞</h3>
+<h3>❝🎵 좋아하는 음악 들으며 쉬고 있어요❞</h3>
 
-<sub>01:00 PM • Seoul 🌦️ • by CrowRish</sub>
+<sub>02:00 PM • Seoul 🌦️ • by CrowRish</sub>
 
 <br>
 
