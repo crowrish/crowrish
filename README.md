@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝✨ 밤늦은 산책을 하고 싶은 기분입니다❞</h3>
+<h3>❝🌅 맑은 아침 하늘, 기분 좋은 하루가 될 것 같아요❞</h3>
 
-<sub>05:00 AM • Seoul 🌙 • by CrowRish</sub>
+<sub>06:00 AM • Seoul 🌙 • by CrowRish</sub>
 
 <br>
 
