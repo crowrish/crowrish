@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☁️ 적당히 흐린 오후, 산책하기 딱 좋은 날씨네요❞</h3>
+<h3>❝🌃 흐린 저녁 하늘, 조용히 책 읽기 좋은 시간이네요❞</h3>
 
-<sub>05:00 PM • Seoul ☁️ • by CrowRish</sub>
+<sub>06:00 PM • Seoul ☁️ • by CrowRish</sub>
 
 <br>
 
