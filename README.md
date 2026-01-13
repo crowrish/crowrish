@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌆 하루 마무리하며 차 한 잔 마시고 있어요❞</h3>
+<h3>❝🌌 별 보기 좋은 새벽이에요❞</h3>
 
-<sub>11:00 PM • Seoul 🌙 • by CrowRish</sub>
+<sub>12:00 AM • Seoul 🌙 • by CrowRish</sub>
 
 <br>
 
