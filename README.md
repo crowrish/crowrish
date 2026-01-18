@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☁️ 적당히 흐린 오후, 산책하기 딱 좋은 날씨네요❞</h3>
+<h3>❝⛅ 구름 낀 오후, 편안한 기분으로 쉬고 있어요❞</h3>
 
-<sub>02:00 PM • Seoul ☁️ • by CrowRish</sub>
+<sub>03:00 PM • Seoul ☁️ • by CrowRish</sub>
 
 <br>
 
