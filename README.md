@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝❄️ 하얀 새벽, 따뜻한 이불이 더욱 소중해요❞</h3>
+<h3>❝🌙 별빛이 아름다운 고요한 밤이네요❞</h3>
 
-<sub>12:00 AM • Seoul ❄️ • by CrowRish</sub>
+<sub>01:00 AM • Seoul 🌙 • by CrowRish</sub>
 
 <br>
 
