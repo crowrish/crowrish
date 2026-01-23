@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝✨ 맑은 하늘, 새벽 산책하기 좋은 시간이에요❞</h3>
+<h3>❝🌙 별빛이 아름다운 고요한 밤이네요❞</h3>
 
-<sub>03:00 AM • Seoul 🌙 • by CrowRish</sub>
+<sub>04:00 AM • Seoul 🌙 • by CrowRish</sub>
 
 <br>
 
