@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☀️ 따뜻한 햇빛과 함께 상쾌한 아침입니다❞</h3>
+<h3>❝🌱 새로운 하루, 뭔가 좋은 일이 생길 것 같은 기분이에요❞</h3>
 
-<sub>06:00 AM • Seoul 🌙 • by CrowRish</sub>
+<sub>07:00 AM • Seoul 🌙 • by CrowRish</sub>
 
 <br>
 
