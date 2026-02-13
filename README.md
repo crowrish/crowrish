@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝⛅ 흐린 하늘이지만 나름 운치 있는 아침이네요❞</h3>
+<h3>❝☕ 모닝 루틴을 천천히 즐기고 있어요❞</h3>
 
-<sub>08:00 AM • Seoul ☁️ • by CrowRish</sub>
+<sub>11:00 AM • Seoul ☁️ • by CrowRish</sub>
 
 <br>
 
