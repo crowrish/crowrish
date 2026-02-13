@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☁️ 구름 사이로 스며드는 새벽빛이 신비로워요❞</h3>
+<h3>❝☀️ 커피 한 잔과 함께 시작하는 상쾌한 아침입니다❞</h3>
 
-<sub>05:00 AM • Seoul ☁️ • by CrowRish</sub>
+<sub>06:00 AM • Seoul ☁️ • by CrowRish</sub>
 
 <br>
 
