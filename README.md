@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☁️ 구름 낀 아침, 선선해서 산책하기 좋겠어요❞</h3>
+<h3>❝🌞 맑은 오후 하늘, 기분까지 맑아지는 시간입니다❞</h3>
 
-<sub>11:00 AM • Seoul ⛅ • by CrowRish</sub>
+<sub>01:00 PM • Seoul 🌤️ • by CrowRish</sub>
 
 <br>
 
