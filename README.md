@@ -4,7 +4,7 @@
 
 <h3>❝🌱 새로운 하루, 뭔가 좋은 일이 생길 것 같은 기분이에요❞</h3>
 
-<sub>06:00 AM • Seoul ☁️ • by CrowRish</sub>
+<sub>07:00 AM • Seoul 🌙 • by CrowRish</sub>
 
 <br>
 
