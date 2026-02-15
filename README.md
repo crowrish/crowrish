@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌫️ 흐린 새벽, 따뜻한 차 한 잔이 그리워집니다❞</h3>
+<h3>❝☁️ 구름 사이로 스며드는 새벽빛이 신비로워요❞</h3>
 
-<sub>04:00 AM • Seoul ☁️ • by CrowRish</sub>
+<sub>05:00 AM • Seoul ☁️ • by CrowRish</sub>
 
 <br>
 
