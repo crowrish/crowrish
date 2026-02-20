@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🕯️ 편안하게 보내는 저녁 시간이에요❞</h3>
+<h3>❝🌆 맑은 저녁 하늘, 오늘 하루도 알차게 보냈네요❞</h3>
 
-<sub>06:00 PM • Seoul 🌙 • by CrowRish</sub>
+<sub>07:00 PM • Seoul 🌙 • by CrowRish</sub>
 
 <br>
 
