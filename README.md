@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☁️ 구름이 낀 새벽, 몽환적인 분위기네요❞</h3>
+<h3>❝🌧️ 비 오는 새벽, 집 안이 더욱 포근하게 느껴져요❞</h3>
 
-<sub>12:00 AM • Seoul ☁️ • by CrowRish</sub>
+<sub>01:00 AM • Seoul 🌦️ • by CrowRish</sub>
 
 <br>
 
