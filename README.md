@@ -4,7 +4,7 @@
 
 <h3>❝🌌 별 보기 좋은 새벽이에요❞</h3>
 
-<sub>12:00 AM • Seoul 🌦️ • by CrowRish</sub>
+<sub>01:00 AM • Seoul 🌦️ • by CrowRish</sub>
 
 <br>
 
