@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🎵 좋아하는 음악 들으며 쉬고 있어요❞</h3>
+<h3>❝📚 책 읽기 좋은 조용한 저녁입니다❞</h3>
 
-<sub>04:00 PM • Seoul 🌤️ • by CrowRish</sub>
+<sub>06:00 PM • Seoul ☀️ • by CrowRish</sub>
 
 <br>
 
