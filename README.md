@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌱 새로운 하루, 뭔가 좋은 일이 생길 것 같은 기분이에요❞</h3>
+<h3>❝☁️ 선선한 오후, 좋아하는 음악 들으며 휴식 중입니다❞</h3>
 
-<sub>11:00 AM • Seoul ⛅ • by CrowRish</sub>
+<sub>02:00 PM • Seoul ⛅ • by CrowRish</sub>
 
 <br>
 
