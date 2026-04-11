@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☁️ 운치 있는 저녁, 따뜻한 차와 함께 휴식하고 있어요❞</h3>
+<h3>❝🌫️ 흐린 새벽, 따뜻한 차 한 잔이 그리워집니다❞</h3>
 
-<sub>11:00 PM • Seoul ☁️ • by CrowRish</sub>
+<sub>12:00 AM • Seoul ☁️ • by CrowRish</sub>
 
 <br>
 
