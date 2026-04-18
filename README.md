@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌙 오늘 하루도 수고 많았네요, 이제 쉬어도 될 시간❞</h3>
+<h3>❝🌫️ 흐린 새벽, 따뜻한 차 한 잔이 그리워집니다❞</h3>
 
-<sub>11:00 PM • Seoul ☁️ • by CrowRish</sub>
+<sub>12:00 AM • Seoul ☁️ • by CrowRish</sub>
 
 <br>
 
