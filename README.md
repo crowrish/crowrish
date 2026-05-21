@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☔ 아침비와 함께 시작하는 촉촉한 하루입니다❞</h3>
+<h3>❝☁️ 선선한 오후, 좋아하는 음악 들으며 휴식 중입니다❞</h3>
 
-<sub>08:00 AM • Seoul 🌦️ • by CrowRish</sub>
+<sub>01:00 PM • Seoul ☁️ • by CrowRish</sub>
 
 <br>
 
