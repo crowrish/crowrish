@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌱 새로운 하루, 뭔가 좋은 일이 생길 것 같은 기분이에요❞</h3>
+<h3>❝🌞 맑은 오후 하늘, 기분까지 맑아지는 시간입니다❞</h3>
 
-<sub>08:00 AM • Seoul 🌤️ • by CrowRish</sub>
+<sub>01:00 PM • Seoul 🌤️ • by CrowRish</sub>
 
 <br>
 
