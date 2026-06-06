@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌿 산책하고 싶어지는 따뜻한 오후네요❞</h3>
+<h3>❝☁️ 구름 낀 저녁, 차분한 마음으로 하루를 되돌아봐요❞</h3>
 
-<sub>04:00 PM • Seoul ⛅ • by CrowRish</sub>
+<sub>07:00 PM • Seoul ⛅ • by CrowRish</sub>
 
 <br>
 
