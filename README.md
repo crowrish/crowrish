@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☁️ 구름 낀 저녁, 차분한 마음으로 하루를 되돌아봐요❞</h3>
+<h3>❝🌧️ 비 오는 저녁, 집이 더욱 포근하게 느껴집니다❞</h3>
 
-<sub>06:00 PM • Seoul ⛅ • by CrowRish</sub>
+<sub>09:00 PM • Seoul 🌦️ • by CrowRish</sub>
 
 <br>
 
