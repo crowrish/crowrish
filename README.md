@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌃 흐린 저녁 하늘, 조용히 책 읽기 좋은 시간이네요❞</h3>
+<h3>❝🌧️ 새벽비 소리가 마음을 차분하게 만드네요❞</h3>
 
-<sub>10:00 PM • Seoul ☁️ • by CrowRish</sub>
+<sub>12:00 AM • Seoul 🌦️ • by CrowRish</sub>
 
 <br>
 
