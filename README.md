@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌦️ 비 내리는 오후, 실내가 더욱 아늑하게 느껴져요❞</h3>
+<h3>❝☀️ 따스한 햇빛 아래서 여유로운 오후를 보내고 있어요❞</h3>
 
-<sub>12:00 PM • Seoul 🌧️ • by CrowRish</sub>
+<sub>03:00 PM • Seoul 🌤️ • by CrowRish</sub>
 
 <br>
 
