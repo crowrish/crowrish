@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌙 오늘 하루도 수고 많았네요, 이제 쉬어도 될 시간❞</h3>
+<h3>❝🌅 맑은 아침 하늘, 기분 좋은 하루가 될 것 같아요❞</h3>
 
-<sub>11:00 PM • Seoul 🌙 • by CrowRish</sub>
+<sub>09:00 AM • Seoul ☀️ • by CrowRish</sub>
 
 <br>
 
