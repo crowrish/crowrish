@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌇 노을 지는 저녁, 감사한 마음으로 하루를 정리합니다❞</h3>
+<h3>❝✨ 밤늦은 산책을 하고 싶은 기분입니다❞</h3>
 
-<sub>11:00 PM • Seoul 🌙 • by CrowRish</sub>
+<sub>12:00 AM • Seoul 🌙 • by CrowRish</sub>
 
 <br>
 
