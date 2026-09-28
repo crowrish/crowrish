@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☁️ 선선한 오후, 좋아하는 음악 들으며 휴식 중입니다❞</h3>
+<h3>❝🌌 구름 한 점 없는 새벽, 생각하기 좋은 시간입니다❞</h3>
 
-<sub>03:00 PM • Seoul ⛅ • by CrowRish</sub>
+<sub>12:00 AM • Seoul 🌙 • by CrowRish</sub>
 
 <br>
 
