@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🎵 좋아하는 음악 들으며 쉬고 있어요❞</h3>
+<h3>❝☔ 빗방울이 창문을 두드리는 평온한 새벽입니다❞</h3>
 
-<sub>04:00 PM • Seoul 🌤️ • by CrowRish</sub>
+<sub>02:00 AM • Seoul 🌦️ • by CrowRish</sub>
 
 <br>
 
