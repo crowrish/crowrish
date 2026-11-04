@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☀️ 따스한 햇빛 아래서 여유로운 오후를 보내고 있어요❞</h3>
+<h3>❝☁️ 구름이 낀 새벽, 몽환적인 분위기네요❞</h3>
 
-<sub>05:00 PM • Seoul 🌙 • by CrowRish</sub>
+<sub>02:00 AM • Seoul ☁️ • by CrowRish</sub>
 
 <br>
 
