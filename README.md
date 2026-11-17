@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝☔ 오후비와 함께 차분한 시간을 보내고 있습니다❞</h3>
+<h3>❝🌆 하루 마무리하며 차 한 잔 마시고 있어요❞</h3>
 
-<sub>12:00 PM • Seoul 🌦️ • by CrowRish</sub>
+<sub>09:00 PM • Seoul ☁️ • by CrowRish</sub>
 
 <br>
 
