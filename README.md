@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌅 석양이 아름다운 저녁, 하루를 마무리하고 있어요❞</h3>
+<h3>❝🌙 별빛이 아름다운 고요한 밤이네요❞</h3>
 
-<sub>08:00 PM • Seoul 🌙 • by CrowRish</sub>
+<sub>05:00 AM • Seoul 🌙 • by CrowRish</sub>
 
 <br>
 
