@@ -2,9 +2,9 @@
 
 <br>
 
-<h3>❝🌅 맑은 아침 하늘, 기분 좋은 하루가 될 것 같아요❞</h3>
+<h3>❝🌇 노을 지는 저녁, 감사한 마음으로 하루를 정리합니다❞</h3>
 
-<sub>10:00 AM • Seoul ☀️ • by CrowRish</sub>
+<sub>06:00 PM • Seoul 🌤️ • by CrowRish</sub>
 
 <br>
 
